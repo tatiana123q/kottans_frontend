@@ -7,3 +7,5 @@ As for me, there was a lot of information in this course. Only the basic linux c
 Almoust all commands was in the task0, but here the information was considered in more detail.
 # TASK 3
 In this course was basic information about strucrute of html document,selectors, atributes, css properties, developer tools. This material was familiar for me.
+# TASK 4
+Information about responsive patterns and responsive tables was new for me.
