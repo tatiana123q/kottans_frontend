@@ -9,3 +9,5 @@ Almoust all commands was in the task0, but here the information was considered i
 In this course was basic information about strucrute of html document,selectors, atributes, css properties, developer tools. This material was familiar for me.
 # TASK 4
 Information about responsive patterns and responsive tables was new for me.
+# TASK 5
+I refresh my knowledge of JavaScript, about variables, expressions, functions, objects. Extra materials about sorts was very usefull for me
